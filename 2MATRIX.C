@@ -1,3 +1,8 @@
+/*
+	author : harshit
+	doc : 9/07/26
+	object : pr5
+*/
 #include<stdio.h>
 #include<conio.h>
 
